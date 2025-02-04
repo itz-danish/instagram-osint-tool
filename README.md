@@ -25,9 +25,6 @@ This project is a Python-based Open Source Intelligence (OSINT) tool designed to
 - Python 3.8 or later  
 - Required Python libraries:  
   - `instagrapi`  
-  - `pickle`  
-  - `json`  
-  - `re`  
 
 ### Installation Steps  
 1. Clone this repository:  
