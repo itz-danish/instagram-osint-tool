@@ -25,6 +25,7 @@ This project is a Python-based Open Source Intelligence (OSINT) tool designed to
 - Python 3.8 or later  
 - Required Python libraries:  
   - `instagrapi`  
+  - `Pillow` (*Required for instagrapi)
 
 ### Installation Steps  
 1. Clone this repository:  
